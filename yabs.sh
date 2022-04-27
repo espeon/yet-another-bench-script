@@ -668,6 +668,7 @@ if [ -z "$SKIP_IPERF" ]; then
 		"iperf3.velocityonline.net" "5201-5210" "Velocity Online" "Tallahassee, FL, US (10G)" "IPv4" \
 		"la.speedtest.clouvider.net" "5200-5209" "Clouvider" "Los Angeles, CA, US (10G)" "IPv4|IPv6" \
 		"speedtest.iveloz.net.br" "5201-5209" "Iveloz Telecom" "Sao Paulo, BR (2G)" "IPv4" \
+		"speedtest.novoserve.com" "5201-5206" "NovoServe" "Schiphol-Rijk, Amsterdam, NL (40G)" "IPv4|IPV6" \
 	)
 
 	# if the "REDUCE_NET" flag is activated, then do a shorter iperf test with only three locations
